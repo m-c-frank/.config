@@ -1,0 +1,7 @@
+[Default Applications]
+text/x-shellscript=text.desktop;
+text/plain=text.desktop;
+application/pdf=pdf.desktop;
+image/*=img.desktop;
+video/*=video.desktop
+inode/directory=file.desktop
