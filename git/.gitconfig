@@ -1,4 +1,7 @@
-# This is Git's per-user configuration file.
 [user]
-	name = Martin Christoph Frank
 	email = martinchristophfrank@gmail.com
+	name = Martin Christoph Frank
+[init]
+	defaultBranch = main
+[push]
+	autoSetupRemote = true
