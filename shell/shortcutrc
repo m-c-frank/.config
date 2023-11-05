@@ -1,0 +1,8 @@
+# vim: filetype=sh
+alias config="cd /home/mcfrank/.config && ls -A" \
+downloads="cd /home/mcfrank/Downloads && ls -A" \
+home="cd /home/mcfrank && ls -A" \
+mnt="cd /mnt && ls -A" \
+pics="cd /home/mcfrank/Pictures && ls -A" \
+bm-files="$EDITOR /home/mcfrank/.config/shell/bm-files" \
+bm-dirs="$EDITOR /home/mcfrank/.config/shell/bm-dirs" \
